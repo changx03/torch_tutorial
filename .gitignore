@@ -4,3 +4,6 @@ logs/
 runs/
 dataset_root/
 .vscode/
+
+# temporary files
+checkpoint.pt
