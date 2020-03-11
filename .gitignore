@@ -4,6 +4,7 @@ logs/
 runs/
 dataset_root/
 .vscode/
+__pycache__/
 
 # temporary files
 checkpoint.pt
